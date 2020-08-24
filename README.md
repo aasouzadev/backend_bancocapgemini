@@ -4,6 +4,9 @@ BackEnd End do desafio técnico Capgemini
 
 ## Project setup
 ```
+composer install
+```
+```
 php artisan migrate
 ```
 
