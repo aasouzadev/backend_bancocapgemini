@@ -1,6 +1,6 @@
 # backend_bancocapgemini
 
-BackEnd End do desafio técnico Capgemini
+BackEnd do desafio técnico Capgemini
 
 ## Project setup
 ```
